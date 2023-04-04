@@ -42,7 +42,7 @@ header ul li{
 
 header.sticky{
     padding: .5rem;
-    background-image: url(/img/header.jpg);
+    background-image: url(img/header.jpg);
     background-size: cover;
     z-index: 999;
     box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5);

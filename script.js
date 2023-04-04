@@ -24,9 +24,6 @@ $( document ). ready(function(){
             userMessage:{
                 required: true,
             }
-        },
-        messages: {
-            username:"Please enter the date in the format MM/DD/YYYY "
         }
     });
 });
